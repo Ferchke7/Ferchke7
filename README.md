@@ -14,6 +14,7 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 
 ## 📚 More Projects
 
-[![Recipes with Auth in Spring boot](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Recipes&theme=dark)](https://github.com/Ferchke7/Recipes)'
-
-[![Recipes with Auth in Spring boot](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Simple-Converter-Bash&theme=dark)]([https://github.com/Ferchke7/Recipes](https://github.com/Ferchke7/Simple-Converter-Bash)https://github.com/Ferchke7/Simple-Converter-Bash)
+[![Recipes with Auth in Spring boot](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Recipes&theme=dark)](https://github.com/Ferchke7/Recipes)
+[![Simple Converter in Bash](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Simple-Converter-Bash&theme=dark)]([https://github.com/Ferchke7/Recipes](https://github.com/Ferchke7/Simple-Converter-Bash)https://github.com/Ferchke7/Simple-Converter-Bash)
+[![Dog glossary](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Dog-Glossary&theme=dark)]([https://github.com/Ferchke7/Recipes]([https://github.com/Ferchke7/Simple-Converter-Bash)https://github.com/Ferchke7/Simple-Converter-Bash](https://github.com/Ferchke7/Dog-Glossary)https://github.com/Ferchke7/Dog-Glossary)
+[![Web Quiz Engine](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Web-Quiz-Engine&theme=dark)]([https://github.com/Ferchke7/Recipes](https://github.com/Ferchke7/Web-Quiz-Engine)https://github.com/Ferchke7/Web-Quiz-Engine)
