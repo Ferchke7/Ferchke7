@@ -14,4 +14,4 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 
 ## 📚 More Projects
 
-[![Recipe with Auth](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ferchke7=Recipes&hide_progress=true))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Ferchke7/Recipes)https://github.com/Ferchke7/Recipes)
+[![Recipes with Auth in Spring boot](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Recipes&theme=dark)](https://github.com/Ferchke7/Recipes)
