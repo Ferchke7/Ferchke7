@@ -14,4 +14,4 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 
 ## 📚 More Projects
 
-[![Recipes with Auth]()]([https://github.com/Furkan-Gulsen/sport-with-ai-monorepo](https://github.com/Ferchke7/Recipes))
+[![Recipe with Auth](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ferchke7=Recipes&hide_progress=true))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Ferchke7/Recipes)https://github.com/Ferchke7/Recipes)
