@@ -17,4 +17,4 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 [![Recipes with Auth in Spring boot](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Recipes&theme=dark)](https://github.com/Ferchke7/Recipes)
 [![Simple Converter in Bash](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Simple-Converter-Bash&theme=dark)](https://github.com/Ferchke7/Simple-Converter-Bash)
 [![Dog glossary](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Dog-Glossary&theme=dark)](https://github.com/Ferchke7/Dog-Glossary)
-[![Telegram bot for exchange rate of Korean won](https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Web-Quiz-Engine&theme=dark)](https://github.com/Ferchke7/currencyRateTelegramBot)
+[![Telegram bot for exchange rate of Korean won]([https://github-readme-stats.vercel.app/api/pin/?username=Ferchke7&repo=Web-Quiz-Engine&theme=dark](https://github.com/Ferchke7/currencyRateTelegramBot)https://github.com/Ferchke7/currencyRateTelegramBot)]()
