@@ -6,7 +6,6 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 ## 👨‍💻 Professional Skills
 
 -  **BackEnd:**  Java
--  **Queue:**  Kafka
 -  **DevOps:**  Docker, Bash
 -  **FrontEnd:**  JavaScript
 -  **Database:** Relational Database (SQL, PostgreSQL)
