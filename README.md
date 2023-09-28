@@ -5,9 +5,10 @@
 I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univeristy (majored in Asia Business International Studies).Specializing mainly in BackEnd,and FrontEnd. 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  Java, C#
+-  **BackEnd:**  Java, C#, C
 -  **DevOps:**  Docker, Bash
--  **FrontEnd:**  JavaScript, React
+-  **FrontEnd:**  JavaScript, React, Typescript
+-  **Frameworks:**  Springboot, React, Unity
 -  **Database:** Relational Database (SQL, PostgreSQL)
 
 
