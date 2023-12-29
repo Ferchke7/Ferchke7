@@ -7,8 +7,8 @@ I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univ
 
 -  **BackEnd:**  Java, C#, C
 -  **DevOps:**  Docker, Bash
--  **FrontEnd:**  JavaScript, React, Typescript
--  **Frameworks:**  Springboot, React, Unity, Asp.net Core 5/6/7
+-  **FrontEnd:**  JavaScript, React, Typescript, Flutter
+-  **Frameworks:**  Springboot, React, Flutter, Asp.net Core 5/6/7
 -  **Database:** Relational Database (SQL, PostgreSQL)
 
 
