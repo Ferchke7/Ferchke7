@@ -1,7 +1,7 @@
 <h2> Hello There!></h2>
 
 
-I'm Ferdavs Majitov, a Software Engineering graduate from Chungnam National Univeristy (majored in Asia Business International Studies).Specializing mainly in BackEnd,and FrontEnd. 
+I'm Fer, a Software Engineering graduate from Chungnam National Univeristy (majored in Asia Business International Studies).Specializing mainly in BackEnd,and FrontEnd. 
 ## 👨‍💻 Professional Skills
 
 -  **BackEnd:**  Java, C#, C
