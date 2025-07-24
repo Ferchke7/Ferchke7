@@ -1,11 +1,11 @@
 <h2> Hello There!></h2>
 
 
-I'm Fer, a Software Engineering graduate from Chungnam National Univeristy (majored in Asia Business International Studies).Specializing mainly in BackEnd,and FrontEnd. 
+I'm Fer, a Software Engineering 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  Java, C#, C
+-  **BackEnd:**  Java, C#, Rust
 -  **DevOps:**  Docker, Bash
--  **FrontEnd:**  JavaScript, React, Typescript, Flutter
--  **Frameworks:**  Springboot, React, Flutter, Asp.net Core 5/6/7
--  **Database:** Relational Database (SQL, PostgreSQL
+-  **FrontEnd:**  JavaScript,
+-  **Frameworks:**  Springboot,Asp.net Core 5/6/7
+-  **Database:** Relational Database (MSSQL, PostgreSQL)
