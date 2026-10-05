@@ -12,7 +12,6 @@
 ### 👨‍💻 About Me
 
 - 💻 **Software Engineer** focused on building high-performance backend systems & distributed solutions.
-- 📍 Based in **Tashkent, Uzbekistan**.
 - 🐧 Open-source enthusiast passionate about Clean Architecture, performance, and developer tools.
 
 ---
